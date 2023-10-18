@@ -6,6 +6,7 @@
 # Description: PhishFinder - Find high risk domains
 # Organization: Advia Credit Union, Information Security Department
 # ===========================================================
+
 from socket import gethostbyname
 from whois import get_registrar_info
 from dns.resolver import resolve  # You may need to install dnspython package

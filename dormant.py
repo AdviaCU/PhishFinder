@@ -6,6 +6,7 @@
 # Description: PhishFinder - Find high risk domains
 # Organization: Advia Credit Union, Information Security Department
 # ===========================================================
+
 import os
 import logging
 from email.mime.multipart import MIMEMultipart

@@ -13,7 +13,9 @@
 | |___________________|   |   [X]   |
 |_________________________|_-_-_-_-_|
 \____________PhishFinder____________/
+
 - Copyright (c) - 2023 Advia Credit Union -  
+
 ```  
 PhishFinder is a Python tool that monitors new domain registrations, performs basic OSINT, and assigns risk scores based on select parameters. Ideal for finding fradulent web impersonators, set it up as a daily cronjob! it can also generate and email risk reports. It relies on the [Whois DS](https://www.whoisds.com/newly-registered-domains) free dataset.   
 

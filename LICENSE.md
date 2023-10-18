@@ -1,5 +1,4 @@
 # Advia Credit Union Licensing Agreement  
-
 # 1. Definitions.  
 
 1.1. Contributor means each individual or entity that creates or contributes to the creation of Modifications.  

@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 from main import send_email
 import logging
 
