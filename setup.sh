@@ -14,8 +14,6 @@ echo """
 |_________________________|_-_-_-_-_|
 \____________PhishFinder____________/
 
-
-
 """
 #shell prompt asking user to input domain name
 echo "Enter the domain name you want to monitor. e.g. adviacu.org"
